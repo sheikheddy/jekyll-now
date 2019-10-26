@@ -11,7 +11,7 @@ While you're here, make sure to check out [my CV]({{ site.baseurl }}/cv.pdf).
 
 I've been meaning to make a personal webiste for quite some time, but I always overcomplicated it and got nowhere. This attempt was finally successful mostly because:
 
-1. It's a static site built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/). Doesn't get much simpler than this.
+1. It's a static site built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/). Doesn't get much simpler than this (Except maybe if you use [Wordpress](https://wordpress.com) or [Glitch](https://glitch.com)).
 2. I was procrastinating on something more important (the most powerful force known to man).
 
 What I learned is that I really shouldn't try to reinvent the wheel. I'm not a front end engineer, so [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/) and [React](https://reactjs.org/) belong to 'experimentation' more than 'production'. I can always add my own customizations if I want something more personalized, and this way it doesn't take days of planning and debugging just to get to a skeleton that _kinda_ looks right. 
